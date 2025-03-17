@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Vinodh Kandavalli - Research Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 5px 0;
+        }
+        .contact {
+            background: #ecf0f1;
+            padding: 15px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr. Vinodh Kandavalli</h1>
+        <p>Research Scientist | Molecular Biology | Proteomics | Microscopy</p>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Biography</h2>
+            <p>Dr. Vinodh Kandavalli is an experienced research scientist specializing in molecular biology, proteomics, microscopy, and high-throughput assay development. He is currently a Research Scientist at Uppsala University, Sweden.</p>
+        </div>
+        <div class="section">
+            <h2>Research Interests</h2>
+            <ul>
+                <li>High-throughput RCA-based assay development</li>
+                <li>Single-molecule detection and multiplex assays</li>
+                <li>NGS, qPCR, padlock probes, and RCA technology</li>
+                <li>Microscopy and imaging techniques</li>
+                <li>Computational modeling and data analysis</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Publications</h2>
+            <ul>
+                <li><strong>2025</strong> - "Anti-correlation of LacI association and dissociation rates observed in living cells" - Nature Communications</li>
+                <li><strong>2024</strong> - "A library of reporters of the global gene expression regulators of E. coli" - mSystems</li>
+                <li><strong>2023</strong> - "Label-free deep learning-based species classification of bacteria" - PLoS Comput Biol</li>
+                <li><strong>2022</strong> - "Rapid antibiotic susceptibility testing and species identification for mixed species" - Nature Communications</li>
+                <li>More publications available on <a href="#">Google Scholar</a></li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li>Development of high-throughput protein screening techniques</li>
+                <li>Optimization of qPCR and RCA-based multiplex assays</li>
+                <li>Advanced drug susceptibility profiling at a single-cell level</li>
+            </ul>
+        </div>
+        <div class="contact">
+            <h2>Contact</h2>
+            <p>Email: vinod.biotech99@gmail.com</p>
+            <p>Location: Uppsala, Sweden</p>
+            <p><a href="#">LinkedIn</a> | <a href="#">Google Scholar</a></p>
+        </div>
+    </div>
+</body>
+</html>
